@@ -1,2 +1,3 @@
-# Underwater-Image-Enhancement-Using-UNet
-Deep Learning based Underwater Image Enhancement using a U-Net architecture trained on the EUVP dataset. Achieved 22 dB PSNR and successfully enhanced unseen underwater images.
+# Underwater Image Enhancement using U-Net
+
+This project focuses on enhancing underwater images using a U-Net based Convolutional Neural Network (CNN). The model was trained on the EUVP (Enhancing Underwater Visual Perception) dataset to improve image visibility, color correction, and contrast. The trained model achieved a PSNR of 22 dB and successfully enhanced unseen underwater images.
